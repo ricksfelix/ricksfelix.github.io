@@ -1,0 +1,24 @@
+.hero {
+    background-color: #0b0b0b;
+    padding: auto;
+    display: inline-table;
+    margin: 80px;
+}
+.hero img {
+    display: table;
+    float: left;
+}
+.texto-hero {
+    margin: 200px 10px 80px auto;
+    display: table;
+}
+.texto-hero h1 {
+    font-size: 15px;
+    color:#70f
+}
+.texto-hero p {
+    color: #fff;
+}
+.texto-hero h2 {
+    color: #fff;
+}

@@ -1,0 +1,39 @@
+.skills {
+    display: flex;
+    justify-content: center;
+}
+
+.skill-python{
+    background-image: linear-gradient(to right, #60c, #70f);
+    text-align: center;
+    color: #fff;
+    display: table;
+    float: left;
+    width: 250px;
+    padding: 30px;
+    margin: 10px;
+}
+.skill-python a {
+    color: #fff;
+}
+.skill a {
+    color: #70f;
+
+}
+.skill{
+    background-color: #1e1e1e;
+    width: 250px;
+    text-align: center;
+    color: #fff;
+    display: table;
+    float: left;
+    padding: 30px;
+    margin: 10px;
+}
+.skill img{
+    width: 50px;
+}
+
+.skill-python img{
+    width: 50px;
+}

@@ -1,0 +1,32 @@
+.experience {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.bloco {
+    display: block;
+    color: #fff;
+    text-align: center;
+    background-color: #151515;
+    width: 200px;
+    height: 100px;
+    margin: 15px 0px 10px 15px;
+    padding: 10px;
+}
+.bloco p {
+    margin: -15px 0px 15px;
+}
+.years {
+    margin-right: 30px;
+}
+.years h2{
+    color: #70f;
+    text-align: center;
+    font-size: 80px;
+    margin-bottom: -30px;
+}
+.years h3{
+    color: #70f;
+    text-align: center;
+    font-size: 30px;
+}
